@@ -3,29 +3,33 @@
 I have a passion for creating web applications. I enjoy building things that I love.
 
 My tools are Laravel, React, MySQL, Tailwind CSS, Livewire, and more.
-Other than programming I enjoy space science, anime, music, and cricket  
+Other than programming, I enjoy space science, anime, music, and cricket  
 
 Here are a couple of projects I've developed:
 
 ## Projects
 
-1. [**McqMate.com**](https://mcqmate.com): A comprehensive MCQs portal designed for students, with an 2 million monthly page views.
-
-2. [**TailwindFlex.com**](https://tailwindflex.com): Community build Tailwind CSS component library. It receives 200k monthly page views.
+1. [**ReddRadar.com**](https://reddradar.com/): Your 24/7 Reddit Lead monitoring companion.
    
-3. [**BootstrapExamples.com**](https://bootstrapexamples.com): Community build Bootstrap CSS component library.
+2. [**McqMate.com**](https://mcqmate.com): A comprehensive MCQs portal designed for students, with an 2 million monthly page views.
 
-4. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 50k monthly page views.
+3. [**TailwindFlex.com**](https://tailwindflex.com): Community build Tailwind CSS component library. It receives 200k monthly page views.
+   
+4. [**BootstrapExamples.com**](https://bootstrapexamples.com): Community build Bootstrap CSS component library.
 
-5. [**EliteAi.tools**](https://eliteai.tools): Collection of tools build with AI.
+5. [**UiSnips.com**](https://uisnips.com): Community build CSS component library.
+
+6. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 50k monthly page views.
+
+7. [**EliteAi.tools**](https://eliteai.tools): AI tools Directory with 800K monthly page views.
   
-6. [**StudyDocs.org**](https://studydocs.org/): Document sharing website for student.
+8. [**StudyDocs.org**](https://studydocs.org/): Document sharing portal for student.
 
-7. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
+9. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
    
-8. [**Lara Click Insights**](https://github.com/prajwal89/lara-click-insights): Record impressions and clicks of any model.
+10. [**Lara Click Insights**](https://github.com/prajwal89/lara-click-insights): Record impressions and clicks of any model.
 
-9. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
+11. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
 
 In addition to these highlighted projects, I've worked on various other web applications. My goal is to continue building innovative solutions that I'm passionate about.
 
@@ -37,13 +41,13 @@ In addition to these highlighted projects, I've worked on various other web appl
 
 - **NoobCodes**: A Chrome extension that provides code snippets directly on search pages based on user queries.
   
-- **Buy Sell Used Books**: As the name suggests users can trade old books.
+- **Buy Sell Used Books**: As the name suggests, users can trade old books.
   
 - **Tourism Management Website**: My final year project.Tours and Travels Management Portal is designed to streamline operations for tourists and owners.
   
 - **FullformMate**: A website cataloging full forms from various categories.
 
-- **Url Longner**: Generate intentionally long and complex URLs, perfect for amusing friends or as a playful prank.
+- **URL Longner**: Generate intentionally long and complex URLs, perfect for amusing friends or as a playful prank.
 
 - **Festival Wisher**: Create personalized wishing cards for festive occasions.
 
