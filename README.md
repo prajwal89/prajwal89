@@ -11,25 +11,27 @@ Here are a couple of projects I've developed:
 
 1. [**ReddRadar.com**](https://reddradar.com/): Your 24/7 Reddit Lead monitoring companion.
    
-2. [**McqMate.com**](https://mcqmate.com): A comprehensive MCQs portal designed for students, with an 2 million monthly page views.
-
-3. [**TailwindFlex.com**](https://tailwindflex.com): Community build Tailwind CSS component library. It receives 200k monthly page views.
-   
-4. [**BootstrapExamples.com**](https://bootstrapexamples.com): Community build Bootstrap CSS component library.
-
-5. [**UiSnips.com**](https://uisnips.com): Community build CSS component library.
-
-6. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 50k monthly page views.
-
-7. [**EliteAi.tools**](https://eliteai.tools): AI tools Directory with 800K monthly page views.
+2. [**Voxana.ai**](https://voxana.ai/): AI Voice Agent for Childcare Centers.
   
-8. [**StudyDocs.org**](https://studydocs.org/): Document sharing portal for student.
+3. [**McqMate.com**](https://mcqmate.com): A comprehensive MCQs portal designed for students, with an 2 million monthly page views.
 
-9. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
+4. [**TailwindFlex.com**](https://tailwindflex.com): Community build Tailwind CSS component library. It receives 200k monthly page views.
    
-10. [**Lara Click Insights**](https://github.com/prajwal89/lara-click-insights): Record impressions and clicks of any model.
+5. [**BootstrapExamples.com**](https://bootstrapexamples.com): Community build Bootstrap CSS component library.
 
-11. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
+6. [**UiSnips.com**](https://uisnips.com): Community build CSS component library.
+
+7. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 50k monthly page views.
+
+8. [**EliteAi.tools**](https://eliteai.tools): AI tools Directory with 800K monthly page views.
+  
+9. [**StudyDocs.org**](https://studydocs.org/): Document sharing portal for student.
+
+10. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
+   
+11. [**Lara Click Insights**](https://github.com/prajwal89/lara-click-insights): Record impressions and clicks of any model.
+
+12. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
 
 In addition to these highlighted projects, I've worked on various other web applications. My goal is to continue building innovative solutions that I'm passionate about.
 
