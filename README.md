@@ -49,8 +49,8 @@ In addition to these highlighted projects, I've worked on various other web appl
 
 - **Festival Wisher**: Create personalized wishing cards for festive occasions.
 
-- [**UiSnips.com**](https://uisnips.com): Community build CSS component library.
+- **UiSnips.com**: Community build CSS component library.
 
-- [**StudyDocs.org**](https://studydocs.org/): Document sharing portal for student.
+- **StudyDocs.org**: Document sharing portal for student.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=prajwal89)
