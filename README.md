@@ -19,19 +19,15 @@ Here are a couple of projects I've developed:
    
 5. [**BootstrapExamples.com**](https://bootstrapexamples.com): Community build Bootstrap CSS component library.
 
-6. [**UiSnips.com**](https://uisnips.com): Community build CSS component library.
+6. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 50k monthly page views.
 
-7. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 50k monthly page views.
-
-8. [**EliteAi.tools**](https://eliteai.tools): AI tools Directory with 800K monthly page views.
+7. [**EliteAi.tools**](https://eliteai.tools): AI tools Directory with 800K monthly page views.
   
-9. [**StudyDocs.org**](https://studydocs.org/): Document sharing portal for student.
-
-10. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
+8. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
    
-11. [**Lara Click Insights**](https://github.com/prajwal89/lara-click-insights): Record impressions and clicks of any model.
+9. [**Lara Click Insights**](https://github.com/prajwal89/lara-click-insights): Record impressions and clicks of any model.
 
-12. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
+10. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
 
 In addition to these highlighted projects, I've worked on various other web applications. My goal is to continue building innovative solutions that I'm passionate about.
 
@@ -52,5 +48,9 @@ In addition to these highlighted projects, I've worked on various other web appl
 - **URL Longner**: Generate intentionally long and complex URLs, perfect for amusing friends or as a playful prank.
 
 - **Festival Wisher**: Create personalized wishing cards for festive occasions.
+
+- [**UiSnips.com**](https://uisnips.com): Community build CSS component library.
+
+- [**StudyDocs.org**](https://studydocs.org/): Document sharing portal for student.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=prajwal89)
